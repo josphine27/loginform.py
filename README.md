@@ -1,12 +1,5 @@
 
 
-
-
-
-
-
-
-
 # login page
 
 A login page used to demonstratepython in making desktop applications using the tikinter framework
@@ -17,7 +10,7 @@ python
 tkinter
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+<img src="Capture.PNG",width="500px">
 
 
 ## Features
