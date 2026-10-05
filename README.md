@@ -10,7 +10,7 @@ python
 tkinter
 ## Screenshots
 
-<img src="Capture.PNG",width="500px">
+<img src="Capture.PNG" width="500px">
 
 
 ## Features
